@@ -1,0 +1,20 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Exclude terraform.tfvars if it contains secrets
+terraform.tfvars
+
+# Override files (if any)
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+azurek8s
+aks-store-quickstart.yaml
