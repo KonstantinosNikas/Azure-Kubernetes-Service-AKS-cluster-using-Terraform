@@ -16,5 +16,8 @@ override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
+
+# local files
 azurek8s
 aks-store-quickstart.yaml
+*.tfplan
